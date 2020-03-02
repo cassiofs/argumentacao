@@ -1,4 +1,0 @@
-consumer_key="rgRYnJoDsaJL7fS3gVPFpzJTZ"
-consumer_secret="cYCRSPFZO9piJvrByWxQmnwuhylLhwygSlcOt9TqVb5u3KUuT0"
-access_token="862448226-YOjUqVXVzzOb4JLx3B5rPQHf4XrzvUutmF53jnTR"
-access_token_secret="zpdaFebnqyBLv9KtLYLHl1TL9CiBdnCvKUWRa3nkeWVLG"
